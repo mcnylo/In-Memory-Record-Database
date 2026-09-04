@@ -1,0 +1,51 @@
+# ==============================
+# CMake build output
+# ==============================
+build/
+cmake-build-*/
+
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# ==============================
+# Compiled binaries / objects
+# ==============================
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# ==============================
+# CPack / packaging output
+# ==============================
+*.zip
+*.tar.gz
+*.tgz
+*.deb
+*.rpm
+*.msi
+
+# ==============================
+# Debug / runtime files
+# ==============================
+*.pdb
+*.ilk
+*.dmp
+*.log
+
+# ==============================
+# Editor / OS files
+# ==============================
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
+desktop.ini
