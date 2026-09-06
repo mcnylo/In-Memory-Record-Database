@@ -1,3 +1,4 @@
+![In-Memory Record Database](resources/in-memory_db_cover.png)
 # In-Memory Record Database (TempDB)
 
 **TempDB** is an in-memory record database written in C.
